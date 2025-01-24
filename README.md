@@ -36,8 +36,6 @@ This repository contains a Python script that automates the process of scraping 
     pip install selenium pandas
     ```
 
-3. Make sure you have [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) installed and accessible on your system.
-
 ## Usage
 
 - Simply run the Python script to scrape gene data for the list of biomarkers:
