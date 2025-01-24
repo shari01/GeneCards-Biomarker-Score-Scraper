@@ -26,12 +26,7 @@ This repository contains a Python script that automates the process of scraping 
 
 ## Installation
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/gene-cards-scraper.git
-    ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
     ```bash
     pip install selenium pandas
     ```
